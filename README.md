@@ -58,6 +58,12 @@ Solo abre tu navegador y empieza a explorar el mundo de la programación sin des
 - **Conclusiones clave**: Los métodos son bloques de código reutilizables que organizan el programa en partes más pequeñas y manejables. Un método sin parámetros (void) solo ejecuta acciones. Los parámetros permiten que los métodos trabajen con diferentes datos cada vez que se llaman. Los métodos con return devuelven un valor que podemos usar posteriormente. La estructura es: public static [tipo] nombreMetodo(parámetros) { código }. Los métodos mejoran la organización, reutilización y mantenibilidad del código.
 - **Práctica**: [Clic para programar](https://onlinegdb.com/zxF8ny3wd)
 
+### Lección 6: Consejos y próximos pasos (10 minutos)
+- **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
+- **Enlace**: [Ver la lección](https://youtu.be/2JHdokkHTT4)
+- **Consejos clave**: Depurar errores, explorar la documentación de Oracle Java.
+- **Documentacion de Java**: [Leer la Documentacion](https://docs.oracle.com/javase/tutorial/)
+- **Compartir tu trabajo**: [Enviar creación](https://docs.google.com/forms/d/e/1FAIpQLScCThxIJPY_7Jh7J9gvOqYtwl6HSqOGc9bLEJDergFuG4Egaw/viewform?usp=publish-editor)
 
 **¡Gracias por completar el curso!**
 
